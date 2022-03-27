@@ -4,7 +4,7 @@ import GifGrid from "./components/GifGrid";
 
 const GifExpertApp = ()=>{
     const [categories, setCategories] = useState(['One Punch'])
-
+// http-server -o
     return(
         <>
             <h2>GifExpertApp</h2>
