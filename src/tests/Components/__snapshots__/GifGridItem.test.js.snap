@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en </GifGridItem> should show the comoneny as expected 1`] = `
+<div
+  className="card animate__animated animate__fadeIn"
+>
+  <img
+    alt="A title"
+    src="https://localhost/images/image.jpg"
+  />
+  <p>
+    A title
+  </p>
+</div>
+`;
